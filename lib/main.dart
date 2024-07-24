@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                 borderRadius: BorderRadius.circular(20)),
             padding: EdgeInsets.all(25),
             child: Text(
-              "EKUN GANGAN",
+              "EKUN 4 REAL",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 28,
